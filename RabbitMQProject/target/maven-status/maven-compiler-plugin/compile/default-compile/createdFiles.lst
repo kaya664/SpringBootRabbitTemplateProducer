@@ -1,0 +1,4 @@
+com\kaya\mq\service\TransferNotificationService.class
+com\kaya\mq\controller\MoneyTransferController.class
+com\kaya\mq\intf\ITransferNotificationService.class
+com\kaya\mq\RabbitMqProjectApplication.class
